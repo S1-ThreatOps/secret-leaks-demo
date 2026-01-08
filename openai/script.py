@@ -30,7 +30,7 @@ prompt_template = PromptTemplate(
 )
 
 # company = "RemoStart"
-# experience = "2 years experience"
+# experience = "2 years  experience"
 # position = "web developer"
 
 # querying the model with the prompt template
