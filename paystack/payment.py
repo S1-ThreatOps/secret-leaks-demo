@@ -34,7 +34,7 @@ class Payment():
 
         payload = Requestpayload
 
-        # making api call
+        # making  api call
         response = requests.post(createUrl, json=payload, headers=headers)
 
         return response.json()
