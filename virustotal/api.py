@@ -11,5 +11,5 @@ def URL_Check(api_key, url):
         result = response.json()
         return result
     else:
-        print(f'Error: {response.status_code}')
+        print(f'Error:  {response.status_code}')
         return None
