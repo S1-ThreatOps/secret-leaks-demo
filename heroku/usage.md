@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 git add <file_name>
 ```
-> Note: To ignore file or folder from git we can write name of file/folder in .gitignore file
+> Note:  To ignore file or folder from git we can write name of file/folder in .gitignore file
 
 
 #### To check the git status
