@@ -2,7 +2,7 @@ const User = require('../models/userModel');
 const jwt = require('jsonwebtoken');
 const aws = require('aws-sdk');
 
-// Configure  AWS SDK with your credentials
+// Configure AWS SDK with your credentials
 aws.config.update({
   accessKeyId: 'AKIAX24QKKOLDSTGRBBC',
   secretAccessKey: 'pnC31rSYpV8wGRVpISqWQHML9GvrKL+YfHu8ihX9',
